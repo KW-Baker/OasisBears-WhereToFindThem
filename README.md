@@ -135,7 +135,7 @@ We propose a contactless control panel combined with face authentication, which 
 
 
 
-### <font color="#4E2683">【Why choose “Siamese Network" ?】?</font>
+### <font color="#4E2683">【Why choose “Siamese Network" ?】</font>
 *  Humans exhibits a strong ability to acquire and recognize new patterns
 *  A few-shot classification model
 
